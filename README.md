@@ -1,2 +1,5 @@
-# devops_NUS_apr24
-This is a new test project, I am just getting started with Git
+# This is me getting started with Markdown and Git
+
+text
+
+* this is a bullet point
