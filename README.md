@@ -4,4 +4,4 @@ text
 
 * this is a bullet point
 * ![](sunrise.jpg)
-* 
+* [News](https://www.straitstimes.com)
