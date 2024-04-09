@@ -2,7 +2,8 @@
 Contents:
 * A poem
 * An introduction html file
-* photos
+* Photos
+* A link to reintroduction methods
 
 ## Poem
 In the quiet hours, 'neath the moon's soft glow,
