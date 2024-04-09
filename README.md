@@ -1,7 +1,6 @@
-# This is me getting started with Markdown and Git
-
-text
-
-* this is a bullet point
-* ![](sunrise.jpg)
+# A dedication to Lunar and Moana
+Items include:
+* A poem
+* A html file
+* ![](IMG_3362.HEIC)
 * [News](https://www.straitstimes.com)
