@@ -27,6 +27,9 @@ In joy and peace, united, come what may.
 
 ## html screenshot
 ![](html_screenshot.png)
+<iframe src="intro.html" width="100%" height="400px">
+  An introduction to Lunar and Moana!
+</iframe>
 
 ## Photos
 ![](IMG_3362.jpg)
