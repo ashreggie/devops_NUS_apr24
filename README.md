@@ -1,5 +1,5 @@
 # A dedication to Lunar and Moana
-Items include:
+Contents:
 * A poem
 * An introduction html file
 * photos
