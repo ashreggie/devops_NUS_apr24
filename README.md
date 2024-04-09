@@ -4,7 +4,7 @@ Items include:
 * An introduction html file
 * photos
 
-Poem
+## Poem
 In the quiet hours, 'neath the moon's soft glow,
 Two feline souls once danced in tender bond.
 Lunar, with fur like starlight's gentle flow,
@@ -25,8 +25,8 @@ In love's embrace, beneath the sun's warm ray.
 Together, in our home, they'll find their way,
 In joy and peace, united, come what may.
 
-Photos
-![](IMG_3362.jpg)
-![](IMG_2339.HEIC)
+## Photos
+[](IMG_3362.jpg)
+[](IMG_2339.HEIC)
 
 [News](https://www.straitstimes.com)
