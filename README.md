@@ -32,4 +32,4 @@ In joy and peace, united, come what may.
 ![](IMG_3362.jpg)
 ![](IMG_2339.HEIC)
 
-[Reintroudction Methods](https://catbehaviorassociates.com/pams-think-like-a-cat-reintroduction-method/)
+[Reintroduction Methods](https://catbehaviorassociates.com/pams-think-like-a-cat-reintroduction-method/)
