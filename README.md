@@ -27,7 +27,7 @@ Together, in our home, they'll find their way,
 In joy and peace, united, come what may.
 
 ## html
-[click_here](https://ashreggie.github.io/devops_NUS_apr24/)
+[click here](https://ashreggie.github.io/devops_NUS_apr24/)
 
 ## Photos
 ![](IMG_3362.jpg)
