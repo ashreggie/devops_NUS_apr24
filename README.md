@@ -27,7 +27,7 @@ Together, in our home, they'll find their way,
 In joy and peace, united, come what may.
 
 ## html
-[click_here](file:///C:/Users/ashre/Documents/Short%20Courses/DevOps/cats_webpage.html)
+![click_here](file:///C:/Users/ashre/Documents/Short%20Courses/DevOps/cats_webpage.html)
 
 ## Photos
 ![](IMG_3362.jpg)
