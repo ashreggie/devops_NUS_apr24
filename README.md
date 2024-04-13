@@ -30,7 +30,6 @@ In joy and peace, united, come what may.
 [click here](https://ashreggie.github.io/devops_NUS_apr24/)
 
 ## Photos
-![](IMG_3362.jpg)
-![](IMG_2339.HEIC)
+![](IMG_3168.JPG)
 
 [Reintroduction Methods](https://catbehaviorassociates.com/pams-think-like-a-cat-reintroduction-method/)
